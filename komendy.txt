@@ -2,4 +2,4 @@
 autoprefixer-cli -o style.prefixed.css style.css
 
 
-html-validate 2-learning-git
+html-validate *.html
